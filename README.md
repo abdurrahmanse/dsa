@@ -1,31 +1,49 @@
-## Data Structures & Algorithms
-Studying classic data structures and algorithms helps you improve your programming and problem-solving skills. These topics are frequently asked in coding interviews, and this course will help you master them.
+# Data Structures and Algorithms Learning Path
 
-#### Data Structures & Algorithms: Part 1 basis level:
-- [x] `1` [Introduction](./1-introduction.md)
-- [x] `2` [Arrays](./2-arrays.md)
-- [x] `3` [Linked Lists](./3-linked-lists.md)
-- [x] `4` [Stacks](./4-stacks.md)
-- [x] `5` [Queues](./5-queues.md)
-- [x] `6` [Hash Tables](./6-hash-tables.md)
-- [x] `7` [Trees](./7-trees.md)
-- [x] `8` [Heaps](./8-heaps.md)
-- [x] `9` [Tries](./9-tries.md)
+This repository is organized as a study guide for learning data structures and algorithms in a professional, consistent way.
 
+## 1. Foundations
 
-#### Data Structures & Algorithms: Part 2 intermediate level:
-- [x] `8` [Binary Search Trees](./8-binary-search-trees.md)
-- [x] `9` [Graphs](./9-graphs.md)
-- [x] `10` [Sorting Algorithms](./10-sorting-algorithms.md)
-- [x] `11` [Searching Algorithms](./11-searching-algorithms.md)
-- [x] `12` [String Manipulation](./12-string-manipulation.md)
-- [x] `13` [Recursion](./13-recursion.md)
-- [x] `14` [Dynamic Programming](./14-dynamic-programming.md)
-- [x] `15` [Big O Notation](./15-big-o-notation.md)
+Start here if you are building your base.
 
-#### Data Structures & Algorithms: Part 3 advanced level: 
-- [x] `16` [Technical Interview Tips](./16-technical-interview-tips.md)
-- [x] `17` [Conclusion](./17-conclusion.md)
-- [x] `18` [Bonus](./18-bonus.md)
+- Big O Notation
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
 
-# dsa
+## 2. Core Data Structures
+
+Move into the main implementation topics.
+
+- Trees
+- Binary Search Trees
+- Heaps
+- Tries
+- Graphs
+
+## 3. Algorithms
+
+Study algorithm families after the fundamentals are comfortable.
+
+- Searching Algorithms
+- Sorting Algorithms
+- String Manipulation
+- Recursion
+- Dynamic Programming
+
+## 4. Interview Preparation
+
+Use these materials near the end of your study path.
+
+- Technical Interview Tips
+- Review and revision notes
+
+## Folder Guide
+
+- `01-Fundamentals` contains complexity and basic concepts.
+- `02-DataStructures` contains the main data structure lessons.
+- `03-Graphs` contains directed and weighted graph topics.
+- `04-Algorithms` contains searching, sorting, and string algorithms.
+- `07-Legacy` stores the older course-part structure for reference only.
