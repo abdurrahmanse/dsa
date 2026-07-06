@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Learning Path
+# Data Structures and Algorithms
 
 This repository is organized as a study guide for learning data structures and algorithms in a professional, consistent way.
 
